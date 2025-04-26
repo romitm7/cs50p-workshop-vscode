@@ -108,7 +108,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
         </details>
 
 
-- [ ] VSCode desktop version
+- [x] VSCode desktop version
     *   If you code on your own computer, you can benefit from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
     *   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
         * <img src="img/vscode_desktop.png" width="40%">
