@@ -120,6 +120,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 - [ ] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
     * Useful:
         * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+           * Enable spell error with `ctrl+,` > search for "problem.visibility" > switch to tab "Workspace" > **uncheck** and the **check again** box "Problems: Visibility".
         * [CodeSnap](https://marketplace.visualstudio.com/items/?itemName=adpyke.codesnap)
         * [Rainbow CSV](https://marketplace.visualstudio.com/items/?itemName=mechatroner.rainbow-csv)
         * [Trailing Spaces](https://marketplace.visualstudio.com/items/?itemName=shardulm94.trailing-spaces)
