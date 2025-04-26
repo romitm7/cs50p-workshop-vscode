@@ -16,6 +16,95 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 *Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
 - [ ] Open VS Code as usual at [cs50.dev](https://cs50.dev/)
 
+- [ ] Try out these keyboard shortcuts:
+-   F2: rename variable/function in all places.
+-   ctrl+p: open a file quickly with fuzzy find.
+-   ctrl+shift+p: open command palette.
+-   ctrl+`: toggle between editor and terminal.
+-   ctrl+/: comment out current or with mouse selected lines.
+-   Paste in terminal: ctrl+v is not working. Instead press one of the keyboard combinations:
+-   ctrl+shift+v
+-   shift+insert
+-   right click with your mouse in the terminal input line.
+
+
+
+-   Auto-completion:
+
+-   VSCode editor: ctrl+space
+
+-   Terminal: tab
+
+-   Enable indentation guides in your editor to avoid indentation mistakes.
+
+-   VSCode: open settings with: ctrl+,
+
+-   Paste in the search field "editor.guides.indentation"
+
+-   Switch to the tab "Workspace"
+
+-   Check ✔ the box for "Editor > Guides: Indentation"
+
+-   Now you will have indentation guides in your code editor.
+
+-   Folder organization.
+
+-   To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like $ cd 0_functions_variables/playback. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
+
+-   Create folders like:
+
+-   0_functions_variables
+
+-   1_conditionals
+
+-   2_loops
+
+-   3_exceptions
+
+-   4_libraries
+
+-   5_unit_tests
+
+-   6_file_io
+
+-   7_regular_expressions
+
+-   8_object-oriented_programming
+
+-   VSCode desktop version.
+
+-   If you code on your own computer, you can benefits from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
+
+-   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
+
+-   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfV56ISZKJ4yYbsvsNfbCFkNNNc9i0d3SrKporhJvK5t0t8lFihDCZXq9FFDmtUQCeNZPFrRVz_ratW0JhAhd3kECFsNy1M2OOgqP-rxC_Nf5ucrsbVIwiYJcOgrVJzuXHQdsI3Yg?key=hLUx2basAOSrY0yb6EUsJS2L)
+
+-   Extensions: 
+
+-   Useful:
+
+-   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+-   [CodeSnap](https://marketplace.visualstudio.com/items/?itemName=adpyke.codesnap)
+
+-   [Rainbow CSV](https://marketplace.visualstudio.com/items/?itemName=mechatroner.rainbow-csv)
+
+-   [Trailing Spaces](https://marketplace.visualstudio.com/items/?itemName=shardulm94.trailing-spaces)
+
+-   [Regexp Explain](https://marketplace.visualstudio.com/items?itemName=louiswt.regexp-preview)
+
+-   [Text Power Tools](https://marketplace.visualstudio.com/items/?itemName=qcz.text-power-tools)
+
+-   Fun:
+
+-   [SynthWave 84](https://marketplace.visualstudio.com/items/?itemName=RobbOwen.synthwave-vscode)
+
+-   [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+
+-   [Vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+
+-   [Snake Trail](https://marketplace.visualstudio.com/items/?itemName=richie5um2.snake-trail)
+
 
 
 
