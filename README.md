@@ -114,7 +114,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
         * <img src="img/vscode_desktop.png" width="40%">
 
 
-- [ ] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
+- [x] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
 
 
 - [ ] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
