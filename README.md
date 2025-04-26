@@ -1,14 +1,16 @@
 # CS50P Workshop: VS Code
 Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.com/courses/cs50x-python/) (CS50x Python at Aryaloka): unleashing the power of VS Code.
 
+
+<img src="img/intro.png" width="80%">
+
+
 ⚡ VSCode is the most loved and advanced IDE (Integrated Developer Environment) we have today. You will for sure use it later when you work out in the industry. 
 
 So far you have only seen a glimpse of what it can do in the regular CS50 problem set solving. In this lecture (not included in this repo) and workshop you will learn more in depth: fuzzy open, command palate, installing powerful and fun extensions, keyboard shortcuts, change settings, installing cool themes.
 
 🧩 Especially we will look at useful extensions that helps you on your coding journey.
 
-
-TODO insert video?
 
 
 ## Steps
