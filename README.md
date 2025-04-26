@@ -37,39 +37,79 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
     * Switch to the tab "Workspace"
     * Check ✔ the box for "Editor > Guides: Indentation"
     * Now you will have indentation guides in your code editor.
-        * <img src="img/indent_guides.png width="50%">
+        * <img src="img/indent_guides.png" width="20%">
 
--   Folder organization.
+- [ ] Folder organization.
+    * To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like $ cd 0_functions_variables/playback. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
+    * Create directories for all weeks:
+        *
+        ```shell
+        $ mkdir 0_functions_variables 1_conditionals 2_loops 3_exceptions 4_libraries 5_unit_tests 6_file_io 7_regular_expressions 8_object-oriented_programming 
+        ```
+    * Drag-and-drop the problem directories in to the right folder according to which week they belong to:
+        <details>
+        <summary>Directories and problems:</summary>
+            
+            ```
+            ├── 0_functions_variables
+            │   ├── einstein
+            │   ├── faces
+            │   ├── indoor
+            │   ├── playback
+            │   └── tip
+            ├── 1_conditionals
+            │   ├── bank
+            │   ├── deep
+            │   ├── extensions
+            │   ├── interpreter
+            │   └── meal
+            ├── 2_loops
+            │   ├── camel
+            │   ├── coke
+            │   ├── nutrition
+            │   ├── plates
+            │   └── twttr
+            ├── 3_exceptions
+            │   ├── fuel
+            │   ├── grocery
+            │   ├── outdated
+            │   └── taqueria
+            ├── 4_libraries
+            │   ├── adieu
+            │   ├── bitcoin
+            │   ├── emojize
+            │   ├── figlet
+            │   ├── game
+            │   └── professor
+            ├── 5_unit_tests
+            │   ├── test_bank
+            │   ├── test_fuel
+            │   ├── test_plates
+            │   └── test_twttr
+            ├── 6_file_io
+            │   ├── lines
+            │   │   └── test_progs
+            │   ├── pizza
+            │   ├── scourgify
+            │   └── shirt
+            ├── 7_regular_expressions
+            │   ├── numb3rs
+            │   ├── response
+            │   ├── um
+            │   ├── watch
+            │   └── working
+            ├── 8_object-oriented_programming
+            │   ├── jar
+            │   ├── seasons
+            │   └── shirtificate
+            ```
+        </details>
 
--   To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like $ cd 0_functions_variables/playback. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
 
--   Create folders like:
-
--   0_functions_variables
-
--   1_conditionals
-
--   2_loops
-
--   3_exceptions
-
--   4_libraries
-
--   5_unit_tests
-
--   6_file_io
-
--   7_regular_expressions
-
--   8_object-oriented_programming
-
--   VSCode desktop version.
-
--   If you code on your own computer, you can benefits from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
-
--   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
-
--   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfV56ISZKJ4yYbsvsNfbCFkNNNc9i0d3SrKporhJvK5t0t8lFihDCZXq9FFDmtUQCeNZPFrRVz_ratW0JhAhd3kECFsNy1M2OOgqP-rxC_Nf5ucrsbVIwiYJcOgrVJzuXHQdsI3Yg?key=hLUx2basAOSrY0yb6EUsJS2L)
+- [ ] VSCode desktop version.
+    *   If you code on your own computer, you can benefits from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
+    *   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
+    *   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfV56ISZKJ4yYbsvsNfbCFkNNNc9i0d3SrKporhJvK5t0t8lFihDCZXq9FFDmtUQCeNZPFrRVz_ratW0JhAhd3kECFsNy1M2OOgqP-rxC_Nf5ucrsbVIwiYJcOgrVJzuXHQdsI3Yg?key=hLUx2basAOSrY0yb6EUsJS2L)
 
 -   Extensions: 
 
