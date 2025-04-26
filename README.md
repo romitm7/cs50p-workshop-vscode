@@ -19,7 +19,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 *Then in your own fork:* Check off the tasks below as you complete them by putting an `x` in the square brackets like `- [x]`:
 - [x] Open VS Code as usual at [cs50.dev](https://cs50.dev/)
 
-- [ ] Try out these keyboard shortcuts:
+- [x] Try out these keyboard shortcuts:
     * `F2`: rename variable/function in all places.
     * `ctrl+p`: open a file quickly with fuzzy find. Type parts of a name like `bank` just `door`.
     * `ctrl+shift+p`: open command palette. Try out some commands like "Markdown: Open Preview", "Format Document" when you have Python file open, or "New File".
