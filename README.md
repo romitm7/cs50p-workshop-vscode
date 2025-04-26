@@ -22,7 +22,7 @@ TODO insert video?
     * `F2`: rename variable/function in all places.
     * `ctrl+p`: open a file quickly with fuzzy find. Type parts of a name like `bank` just `door`.
     * `ctrl+shift+p`: open command palette. Try out some commands like "Markdown: Open Preview", "Format Document" when you have Python file open, or "New File".
-    * `ctrl+```: toggle between editor and terminal.
+    * `ctrl+`` `: toggle between editor and terminal.
     * `ctrl+/`: comment out current or with mouse selected lines.
     * `Paste in terminal: `ctrl+v` is **not** working. Instead press one of the keyboard combinations:
         * `ctrl+shift+v`
