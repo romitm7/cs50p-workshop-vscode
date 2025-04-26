@@ -3,7 +3,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
 
 
 <p align="center">
-<img src="img/intro.png" width="60%">
+<img src="img/intro.png" width="40%">
 </p>
 
 
