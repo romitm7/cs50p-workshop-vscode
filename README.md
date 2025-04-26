@@ -17,35 +17,27 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 - [ ] Open VS Code as usual at [cs50.dev](https://cs50.dev/)
 
 - [ ] Try out these keyboard shortcuts:
--   F2: rename variable/function in all places.
--   ctrl+p: open a file quickly with fuzzy find.
--   ctrl+shift+p: open command palette.
--   ctrl+`: toggle between editor and terminal.
--   ctrl+/: comment out current or with mouse selected lines.
--   Paste in terminal: ctrl+v is not working. Instead press one of the keyboard combinations:
--   ctrl+shift+v
--   shift+insert
--   right click with your mouse in the terminal input line.
+    * `F2`: rename variable/function in all places.
+    * `ctrl+p`: open a file quickly with fuzzy find. Type parts of a name like `bank` just `door`.
+    * `ctrl+shift+p`: open command palette. Try out some commands like "Format Document" or "New File".
+    * `ctrl+\``: toggle between editor and terminal.
+    * `ctrl+/`: comment out current or with mouse selected lines.
+    * `Paste in terminal: `ctrl+v` is not working. Instead press one of the keyboard combinations:
+        * `ctrl+shift+v`
+        * `shift+insert`
+        * `right click mouse` in the terminal input line.
+    * `ctrl+click` on a function name or variable to take you to the definition of it.
+    * Auto-completion:
+        * VSCode editor: type parts of variable or function name and press `ctrl+space`
+        * Terminal: type parts of file and then press `<tab>` like `$ python ba<tab>` to complete `bank.py` if there is such file in current directory.
 
-
-
--   Auto-completion:
-
--   VSCode editor: ctrl+space
-
--   Terminal: tab
-
--   Enable indentation guides in your editor to avoid indentation mistakes.
-
--   VSCode: open settings with: ctrl+,
-
--   Paste in the search field "editor.guides.indentation"
-
--   Switch to the tab "Workspace"
-
--   Check ✔ the box for "Editor > Guides: Indentation"
-
--   Now you will have indentation guides in your code editor.
+- [ ] Enable indentation guides in your editor to avoid indentation mistakes.
+    * VSCode: open settings with: ctrl+,
+    * Paste in the search field "editor.guides.indentation"
+    * Switch to the tab "Workspace"
+    * Check ✔ the box for "Editor > Guides: Indentation"
+    * Now you will have indentation guides in your code editor.
+        * <img src="img/indent_guides.png width="50%">
 
 -   Folder organization.
 
