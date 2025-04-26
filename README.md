@@ -117,7 +117,7 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 - [x] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
 
 
-- [ ] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
+- [x] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
     * Useful:
         * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
            * Enable spell error with `ctrl+,` > search for "problem.visibility" > switch to tab "Workspace" > **uncheck** and the **check again** box "Problems: Visibility".
