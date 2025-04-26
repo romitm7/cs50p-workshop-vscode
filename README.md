@@ -24,7 +24,7 @@ TODO insert video?
     * `ctrl+shift+p`: open command palette. Try out some commands like "Markdown: Open Preview", "Format Document" when you have Python file open, or "New File".
     * ``ctrl+` ``: toggle between editor and terminal.
     * `ctrl+/`: comment out current or with mouse selected lines.
-    * `Paste in terminal: `ctrl+v` is **not** working. Instead press one of the keyboard combinations:
+    * Paste in terminal: `ctrl+v` is **not** working. Instead press one of the keyboard combinations:
         * `ctrl+shift+v`
         * `shift+insert`
         * `right click mouse` in the terminal input line.
@@ -34,7 +34,7 @@ TODO insert video?
         * Terminal: type parts of file and then press `<tab>` like `$ python ba<tab>` to complete `bank.py` if there is such file in current directory.
 
 - [ ] Enable indentation guides in your editor to avoid indentation mistakes.
-    * VSCode: open settings with: ctrl+,
+    * VSCode: open settings with: `ctrl+`,
     * Paste in the search field "**editor.guides.indentation**"
     * Switch to the tab "Workspace"
     * Check ✔ the box for "Editor > Guides: Indentation"
@@ -90,7 +90,6 @@ TODO insert video?
             │   └── test_twttr
             ├── 6_file_io
             │   ├── lines
-            │   │   └── test_progs
             │   ├── pizza
             │   ├── scourgify
             │   └── shirt
@@ -108,7 +107,7 @@ TODO insert video?
         </details>
 
 
-- [ ] VSCode desktop version.
+- [ ] VSCode desktop version
     *   If you code on your own computer, you can benefit from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
     *   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
         * <img src="img/vscode_desktop.png" width="40%">
