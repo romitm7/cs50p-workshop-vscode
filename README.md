@@ -8,6 +8,8 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 🧩 Especially we will look at useful extensions that helps you on your coding journey.
 
 
+TODO insert video?
+
 
 ## Steps
 
@@ -19,10 +21,10 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 - [ ] Try out these keyboard shortcuts:
     * `F2`: rename variable/function in all places.
     * `ctrl+p`: open a file quickly with fuzzy find. Type parts of a name like `bank` just `door`.
-    * `ctrl+shift+p`: open command palette. Try out some commands like "Format Document" or "New File".
+    * `ctrl+shift+p`: open command palette. Try out some commands like "Markdown: Open Preview", "Format Document" when you have Python file open, or "New File".
     * `ctrl+\``: toggle between editor and terminal.
     * `ctrl+/`: comment out current or with mouse selected lines.
-    * `Paste in terminal: `ctrl+v` is not working. Instead press one of the keyboard combinations:
+    * `Paste in terminal: `ctrl+v` is **not** working. Instead press one of the keyboard combinations:
         * `ctrl+shift+v`
         * `shift+insert`
         * `right click mouse` in the terminal input line.
@@ -33,14 +35,14 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 
 - [ ] Enable indentation guides in your editor to avoid indentation mistakes.
     * VSCode: open settings with: ctrl+,
-    * Paste in the search field "editor.guides.indentation"
+    * Paste in the search field "**editor.guides.indentation**"
     * Switch to the tab "Workspace"
     * Check ✔ the box for "Editor > Guides: Indentation"
     * Now you will have indentation guides in your code editor.
         * <img src="img/indent_guides.png" width="20%">
 
 - [ ] Folder organization.
-    * To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like $ cd 0_functions_variables/playback. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
+    * To make it easier for you to find old solutions, create a directory for each week. However, this makes for longer names to type on the keyboard like `$ cd 0_functions_variables/playback`. Thus I recommend: once you've completed a full week, then create a new directory for that week and drag-and-drop the problem set in to that directory.
     * Create directories for all weeks:
         *
         ```shell
@@ -107,37 +109,32 @@ So far you have only seen a glimpse of what it can do in the regular CS50 proble
 
 
 - [ ] VSCode desktop version.
-    *   If you code on your own computer, you can benefits from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
+    *   If you code on your own computer, you can benefit from a bit more speed and robustness by [downloading](https://code.visualstudio.com/download) VSCode desktop version. It works exactly the same as the web version, but a bit better experience.
     *   To use VSCode desktop instead of web, when you go to [cs50.dev](https://cs50.dev/) instead of pressing the "Log In" button press the down arrow andthen "Open in VS Code Desktop".
-    *   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfV56ISZKJ4yYbsvsNfbCFkNNNc9i0d3SrKporhJvK5t0t8lFihDCZXq9FFDmtUQCeNZPFrRVz_ratW0JhAhd3kECFsNy1M2OOgqP-rxC_Nf5ucrsbVIwiYJcOgrVJzuXHQdsI3Yg?key=hLUx2basAOSrY0yb6EUsJS2L)
-
--   Extensions: 
-
--   Useful:
-
--   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-
--   [CodeSnap](https://marketplace.visualstudio.com/items/?itemName=adpyke.codesnap)
-
--   [Rainbow CSV](https://marketplace.visualstudio.com/items/?itemName=mechatroner.rainbow-csv)
-
--   [Trailing Spaces](https://marketplace.visualstudio.com/items/?itemName=shardulm94.trailing-spaces)
-
--   [Regexp Explain](https://marketplace.visualstudio.com/items?itemName=louiswt.regexp-preview)
-
--   [Text Power Tools](https://marketplace.visualstudio.com/items/?itemName=qcz.text-power-tools)
-
--   Fun:
-
--   [SynthWave 84](https://marketplace.visualstudio.com/items/?itemName=RobbOwen.synthwave-vscode)
-
--   [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
-
--   [Vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
-
--   [Snake Trail](https://marketplace.visualstudio.com/items/?itemName=richie5um2.snake-trail)
+        * <img src="img/vscode_desktop.png" width="40%">
 
 
+- [ ] Enable the statusbar with the command palette `ctrl+shift+p` and type `View: Toggle Status Bar Visibility` and orient yourself with the icons showns there.
+
+
+- [ ] Extensions: Install some useful or fun extensions and find a theme that suits your taste!
+    * Useful:
+        * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+        * [CodeSnap](https://marketplace.visualstudio.com/items/?itemName=adpyke.codesnap)
+        * [Rainbow CSV](https://marketplace.visualstudio.com/items/?itemName=mechatroner.rainbow-csv)
+        * [Trailing Spaces](https://marketplace.visualstudio.com/items/?itemName=shardulm94.trailing-spaces)
+        * [Regexp Explain](https://marketplace.visualstudio.com/items?itemName=louiswt.regexp-preview)
+        * [Text Power Tools](https://marketplace.visualstudio.com/items/?itemName=qcz.text-power-tools)
+    * Themes:
+        * [SynthWave 84](https://marketplace.visualstudio.com/items/?itemName=RobbOwen.synthwave-vscode)
+        * [Dracula](https://marketplace.visualstudio.com/items/?itemName=dracula-theme.theme-dracula)
+        * [Tokyo Night](https://marketplace.visualstudio.com/items/?itemName=enkia.tokyo-night)
+        * [Jellyfish](https://marketplace.visualstudio.com/items/?itemName=PawelBorkar.jellyfish)
+        * [Fairyfloss](https://marketplace.visualstudio.com/items/?itemName=nopjmp.fairyfloss)
+    * Fun:
+        * [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+        * [Vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+        * [Snake Trail](https://marketplace.visualstudio.com/items/?itemName=richie5um2.snake-trail)
 
 
 
