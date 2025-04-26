@@ -2,7 +2,9 @@
 Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.com/courses/cs50x-python/) (CS50x Python at Aryaloka): unleashing the power of VS Code.
 
 
-<img src="img/intro.png" width="80%">
+<p align="center">
+<img src="img/intro.png" width="60%">
+</p>
 
 
 ⚡ VSCode is the most loved and advanced IDE (Integrated Developer Environment) we have today. You will for sure use it later when you work out in the industry. 
